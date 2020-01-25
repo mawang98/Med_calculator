@@ -21,7 +21,7 @@ def try_int_input(key):
         print(wrong)
         return 0
     else:
-        return 
+        return 1
 
 # 定义浮点小数输入纠错函数
 def try_flo_input(key):
