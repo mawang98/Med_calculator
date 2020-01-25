@@ -1,2 +1,3 @@
-# Med_calculator 2.0
+# Med_calculator 
 主要涉及医学相关计算
+目前已初步完成的为终端版和界面版的内生肌酐清除率计算器
